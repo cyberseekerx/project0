@@ -1,0 +1,65 @@
+h1{
+  color : white;
+  text-align: center;
+  font-size: 60px;
+  font-family:Arial;
+  font-weight:bold;
+}
+p{
+  color : blue;
+  text-align: center;
+}
+
+body{
+  background-color:#202124
+}
+
+.search{text-align: right;
+  justify-content: flex-end;
+a:link {
+  color:none;
+}
+
+a:visited {
+  color:white 
+}
+
+a:hover {
+  color: white ;
+}
+
+a:active {
+  color: white;
+}
+;}
+
+div {
+  text-align : center ;
+}
+
+.bar input[type="text"] {
+  border-radius: 30px;
+  background-color: #303134;  
+  color:white;
+  width :400px; 
+  border:1px solid #5f6368;
+  padding:10px 20px;
+  font-size:15px;}
+
+.submit input[type="submit"] {
+  background-color: #303134;
+  color: white;
+  padding: 10px 20px;
+border-radius:6px;
+margin:4px}
+
+
+
+
+
+
+
+
+
+
+
